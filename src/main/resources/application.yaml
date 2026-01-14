@@ -1,7 +1,0 @@
-spring:
-  application:
-    name: School_App
-
-  cloud:
-    config:
-      uri: http://localhost:8888
